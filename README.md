@@ -14,6 +14,23 @@ Explore fragrances by mood, notes, and vibe. Sillage is an immersive discovery e
 - **Similar Vibes** — mood-matched recommendations with overlap scores
 - **Scent comparison** — mood overlap + note-based scent similarity
 
+## Screenshots
+
+| Feature | Preview |
+|---------|---------|
+| Immersive hero | ![Hero](docs/screenshots/01-hero.png) |
+| Search & filter chips | ![Search filters](docs/screenshots/02-search-filters.png) |
+| Collection carousel | ![Carousel](docs/screenshots/03-collection-carousel.png) |
+| Shareable scent URLs | ![Shareable URL](docs/screenshots/04-shareable-url.png) |
+| Notes pyramid panel | ![Notes panel](docs/screenshots/05-notes-panel.png) |
+| Similar Vibes | ![Similar Vibes](docs/screenshots/06-similar-vibes.png) |
+| About section | ![About](docs/screenshots/07-about.png) |
+| My rotation (saved) | ![My rotation](docs/screenshots/08-my-rotation.png) |
+| Scent comparison | ![Compare](docs/screenshots/09-compare.png) |
+| Mobile hero + bottle | ![Mobile](docs/screenshots/10-mobile-hero.png) |
+
+Regenerate with `npx playwright install chromium && node scripts/capture-screenshots.mjs` (optional `SCREENSHOT_BASE` env var, defaults to the live site).
+
 ## Stack
 
 - [Next.js 16](https://nextjs.org) (App Router)
