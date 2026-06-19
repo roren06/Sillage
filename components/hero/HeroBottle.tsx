@@ -25,10 +25,10 @@ export function HeroBottle({ perfume }: HeroBottleProps) {
         initial={reducedMotion ? false : "initial"}
         animate={reducedMotion ? undefined : "animate"}
         exit={reducedMotion ? undefined : "exit"}
-        className="pointer-events-none absolute right-6 top-[34%] z-10 hidden -translate-y-1/2 lg:block xl:right-[18%] xl:top-[38%]"
+        className="pointer-events-none absolute right-3 top-[30%] z-10 -translate-y-1/2 sm:right-5 sm:top-[32%] lg:right-6 lg:top-[34%] xl:right-[18%] xl:top-[38%]"
       >
         <div
-          className="relative isolate h-[22rem] w-36 xl:h-[30rem] xl:w-48"
+          className="relative isolate h-[12rem] w-[4.5rem] sm:h-[16rem] sm:w-28 lg:h-[22rem] lg:w-36 xl:h-[30rem] xl:w-48"
           style={{ transform: `scale(${scale})`, transformOrigin: "center bottom" }}
         >
           <div
@@ -41,7 +41,7 @@ export function HeroBottle({ perfume }: HeroBottleProps) {
             fill
             priority
             unoptimized={localBottle}
-            sizes="(min-width: 1280px) 192px, 144px"
+            sizes="(min-width: 1280px) 192px, (min-width: 1024px) 144px, 112px"
             className="object-contain drop-shadow-[0_40px_80px_rgba(0,0,0,0.55)]"
           />
         </div>

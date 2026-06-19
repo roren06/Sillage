@@ -16,6 +16,9 @@ export const FILTER_CHIPS = [
   { label: "Fresh", query: "fresh" },
   { label: "Woody", query: "woody" },
   { label: "Gourmand", query: "gourmand" },
+  { label: "Office", query: "office" },
+  { label: "Oud", query: "oud" },
+  { label: "Club", query: "club" },
   { label: "Beast mode", query: "beast" },
   { label: "Vanilla", query: "vanilla" },
 ] as const;

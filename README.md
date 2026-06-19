@@ -2,7 +2,7 @@
 
 Explore fragrances by mood, notes, and vibe. Sillage is an immersive discovery experience: each scent opens with its atmosphere, note pyramid, and personality — save favourites, rank your rotation, and find similar scents worth trying next.
 
-**Live demo:** _Add your Vercel URL after deploy_
+**Live demo:** [sillage-sooty.vercel.app](https://sillage-sooty.vercel.app/)
 
 ## Features
 

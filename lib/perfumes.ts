@@ -1,4 +1,5 @@
 import rawPerfumes from "./perfumes.json";
+import { LONGEVITY_LEVELS } from "./constants";
 import type { Perfume } from "./types";
 
 export const perfumes = rawPerfumes as Perfume[];
@@ -18,7 +19,11 @@ export function filterPerfumes(query: string) {
       perfume.name,
       perfume.house,
       perfume.family,
+      perfume.season,
+      perfume.longevity,
+      LONGEVITY_LEVELS[perfume.longevity].label,
       perfume.tagline,
+      perfume.card.label,
       ...perfume.vibe,
       ...perfume.notes.top,
       ...perfume.notes.heart,
