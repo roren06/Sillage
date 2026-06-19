@@ -1,0 +1,1313 @@
+[
+  {
+    "id": "sauvage-elixir",
+    "name": "Sauvage Elixir",
+    "house": "Dior",
+    "tagline": "Dark spice and lavender heat. Loud, magnetic, and built for cold nights.",
+    "family": "fresh",
+    "season": "Fall / Winter",
+    "longevity": "beast",
+    "vibe": [
+      "Spicy",
+      "Office night-out",
+      "Compliment getter"
+    ],
+    "notes": {
+      "top": [
+        "Cinnamon",
+        "Nutmeg",
+        "Cardamom"
+      ],
+      "heart": [
+        "Lavender",
+        "Licorice"
+      ],
+      "base": [
+        "Ambroxan",
+        "Patchouli",
+        "Haitian Vetiver"
+      ]
+    },
+    "hero": {
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1920&q=80",
+      "gradient": "linear-gradient(135deg, rgba(8,12,28,0.75) 0%, rgba(30,20,60,0.45) 50%, rgba(0,0,0,0.55) 100%)",
+      "accent": "#7c9cff"
+    },
+    "card": {
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=600&q=80",
+      "label": "Spicy fresh"
+    },
+    "bottle": {
+      "image": "/bottles/sauvage-elixir.png"
+    },
+    "similar": [
+      "creed-aventus",
+      "initio-side-effect"
+    ]
+  },
+  {
+    "id": "bleu-de-chanel",
+    "name": "Bleu de Chanel",
+    "house": "Chanel",
+    "tagline": "Clean cedar and citrus. The blueprint for modern fresh masculine scent.",
+    "family": "woody",
+    "season": "All season",
+    "longevity": "long",
+    "vibe": [
+      "Daily driver",
+      "Office safe",
+      "Timeless"
+    ],
+    "notes": {
+      "top": [
+        "Citrus",
+        "Mint",
+        "Pink Pepper"
+      ],
+      "heart": [
+        "Ginger",
+        "Jasmine",
+        "Iso E Super"
+      ],
+      "base": [
+        "Cedar",
+        "Sandalwood",
+        "Incense"
+      ]
+    },
+    "hero": {
+      "image": "https://images.unsplash.com/photo-1505142468610-359e7d316be0?auto=format&fit=crop&w=1920&q=80",
+      "gradient": "linear-gradient(160deg, rgba(5,20,35,0.8) 0%, rgba(10,40,55,0.5) 45%, rgba(0,0,0,0.6) 100%)",
+      "accent": "#5ec4e0"
+    },
+    "card": {
+      "image": "https://images.unsplash.com/photo-1505142468610-359e7d316be0?auto=format&fit=crop&w=600&q=80",
+      "label": "Woody fresh"
+    },
+    "bottle": {
+      "image": "/bottles/blue-de-chanel.png"
+    },
+    "similar": [
+      "velixir-poseidon",
+      "blue-talisman"
+    ]
+  },
+  {
+    "id": "ysl-y",
+    "name": "Y Eau de Parfum",
+    "house": "YSL",
+    "tagline": "Green apple brightness with sage depth. Youthful but never childish.",
+    "family": "fresh",
+    "season": "Spring / Summer",
+    "longevity": "long",
+    "vibe": [
+      "Daytime",
+      "Fresh",
+      "Versatile"
+    ],
+    "notes": {
+      "top": [
+        "Apple",
+        "Ginger",
+        "Bergamot"
+      ],
+      "heart": [
+        "Sage",
+        "Juniper",
+        "Geranium"
+      ],
+      "base": [
+        "Ambergris",
+        "Cedar",
+        "Vetiver"
+      ]
+    },
+    "hero": {
+      "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1920&q=80",
+      "gradient": "linear-gradient(145deg, rgba(10,30,15,0.78) 0%, rgba(20,50,30,0.45) 50%, rgba(0,0,0,0.55) 100%)",
+      "accent": "#6ee7a0"
+    },
+    "card": {
+      "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=600&q=80",
+      "label": "Green fresh"
+    },
+    "bottle": {
+      "image": "/bottles/ysl-y.png"
+    },
+    "similar": [
+      "velixir-demeter",
+      "rasasi-hawas-ice"
+    ]
+  },
+  {
+    "id": "le-male",
+    "name": "Le Male",
+    "house": "Jean Paul Gaultier",
+    "tagline": "Mint, vanilla, and amber warmth. Iconic barbershop sweetness since the 90s.",
+    "family": "oriental",
+    "season": "Fall / Winter",
+    "longevity": "long",
+    "vibe": [
+      "Classic",
+      "Sweet",
+      "Date night"
+    ],
+    "notes": {
+      "top": [
+        "Mint",
+        "Lavender",
+        "Bergamot"
+      ],
+      "heart": [
+        "Cinnamon",
+        "Orange Blossom"
+      ],
+      "base": [
+        "Vanilla",
+        "Tonka Bean",
+        "Amber"
+      ]
+    },
+    "hero": {
+      "image": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?auto=format&fit=crop&w=1920&q=80",
+      "gradient": "linear-gradient(125deg, rgba(8,5,28,0.88) 0%, rgba(55,18,85,0.55) 45%, rgba(0,0,0,0.72) 100%)",
+      "accent": "#c084fc"
+    },
+    "card": {
+      "image": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?auto=format&fit=crop&w=600&q=80",
+      "label": "Sweet oriental"
+    },
+    "bottle": {
+      "image": "/bottles/le-male.png"
+    },
+    "similar": [
+      "versace-eros",
+      "lattafa-khamrah"
+    ]
+  },
+  {
+    "id": "versace-eros",
+    "name": "Eros",
+    "house": "Versace",
+    "tagline": "Mint blast meets vanilla candy. Loud, fun, and impossible to ignore.",
+    "family": "fresh",
+    "season": "Spring / Summer",
+    "longevity": "beast",
+    "vibe": [
+      "Club",
+      "Sweet fresh",
+      "Bold"
+    ],
+    "notes": {
+      "top": [
+        "Mint",
+        "Green Apple",
+        "Lemon"
+      ],
+      "heart": [
+        "Tonka Bean",
+        "Ambroxan",
+        "Geranium"
+      ],
+      "base": [
+        "Vanilla",
+        "Cedar",
+        "Vetiver"
+      ]
+    },
+    "hero": {
+      "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=1920&q=80",
+      "gradient": "linear-gradient(155deg, rgba(5,35,40,0.85) 0%, rgba(8,70,75,0.5) 50%, rgba(0,0,0,0.65) 100%)",
+      "accent": "#2dd4bf"
+    },
+    "card": {
+      "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=600&q=80",
+      "label": "Mint vanilla"
+    },
+    "bottle": {
+      "image": "/bottles/eros.png"
+    },
+    "similar": [
+      "rasasi-hawas-ice",
+      "nine-pm"
+    ]
+  },
+  {
+    "id": "azzaro-wanted",
+    "name": "Wanted",
+    "house": "Azzaro",
+    "tagline": "Ginger sparkle over tonka and amber. Sweet spice with mass appeal.",
+    "family": "oriental",
+    "season": "All season",
+    "longevity": "long",
+    "vibe": [
+      "Crowd pleaser",
+      "Warm",
+      "Night out"
+    ],
+    "notes": {
+      "top": [
+        "Ginger",
+        "Lemon",
+        "Mint"
+      ],
+      "heart": [
+        "Apple",
+        "Juniper",
+        "Cardamom"
+      ],
+      "base": [
+        "Tonka Bean",
+        "Amberwood"
+      ]
+    },
+    "hero": {
+      "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1920&q=80",
+      "gradient": "linear-gradient(140deg, rgba(40,18,0,0.82) 0%, rgba(95,45,5,0.52) 50%, rgba(0,0,0,0.68) 100%)",
+      "accent": "#f59e0b"
+    },
+    "card": {
+      "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=600&q=80",
+      "label": "Warm spice"
+    },
+    "bottle": {
+      "image": "/bottles/wantedd.png"
+    },
+    "similar": [
+      "vulcan-feu",
+      "afnan-supremacy-ce"
+    ]
+  },
+  {
+    "id": "cloud-oud",
+    "name": "Cloud Oud",
+    "house": "Maison Lumiere",
+    "tagline": "Airy saffron and woody amber. The viral sweet-oud vibe without the price tag.",
+    "family": "gourmand",
+    "season": "Fall / Winter",
+    "longevity": "beast",
+    "vibe": [
+      "Niche feel",
+      "Sweet oud",
+      "Statement"
+    ],
+    "notes": {
+      "top": [
+        "Saffron",
+        "Jasmine"
+      ],
+      "heart": [
+        "Amberwood",
+        "Ambergris"
+      ],
+      "base": [
+        "Fir Resin",
+        "Cedar"
+      ]
+    },
+    "hero": {
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1920&q=80",
+      "gradient": "linear-gradient(145deg, rgba(35,15,5,0.88) 0%, rgba(95,50,15,0.55) 48%, rgba(0,0,0,0.75) 100%)",
+      "accent": "#e8a87c"
+    },
+    "card": {
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=600&q=80",
+      "label": "Sweet oud"
+    },
+    "bottle": {
+      "image": "/bottles/cloud-oud.png"
+    },
+    "similar": [
+      "lattafa-khamrah",
+      "marwa-arabiyat"
+    ]
+  },
+  {
+    "id": "born-in-roma",
+    "name": "Born in Roma",
+    "house": "Valentino",
+    "tagline": "Smoky vanilla and soft spice. Cozy gourmand energy with designer polish.",
+    "family": "gourmand",
+    "season": "Fall / Winter",
+    "longevity": "long",
+    "vibe": [
+      "Cozy",
+      "Vanilla",
+      "Evening"
+    ],
+    "notes": {
+      "top": [
+        "Blackcurrant",
+        "Pink Pepper",
+        "Bergamot"
+      ],
+      "heart": [
+        "Jasmine",
+        "Jasmine Sambac"
+      ],
+      "base": [
+        "Vanilla Bourbon",
+        "Cashmeran",
+        "Guaiac Wood"
+      ]
+    },
+    "hero": {
+      "image": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?auto=format&fit=crop&w=1920&q=80",
+      "gradient": "linear-gradient(135deg, rgba(18,5,14,0.88) 0%, rgba(55,12,35,0.52) 50%, rgba(0,0,0,0.75) 100%)",
+      "accent": "#f472b6"
+    },
+    "card": {
+      "image": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?auto=format&fit=crop&w=600&q=80",
+      "label": "Vanilla gourmand"
+    },
+    "bottle": {
+      "image": "/bottles/born-in-roma.png"
+    },
+    "similar": [
+      "lattafa-khamrah",
+      "stronger-with-you-intensely"
+    ]
+  },
+  {
+    "id": "creed-aventus",
+    "name": "Aventus",
+    "house": "Creed",
+    "tagline": "Pineapple smoke over birch and musk. The benchmark for bold, clean power.",
+    "family": "woody",
+    "season": "All season",
+    "longevity": "beast",
+    "vibe": [
+      "Status",
+      "Compliment getter",
+      "Signature scent"
+    ],
+    "notes": {
+      "top": [
+        "Pineapple",
+        "Bergamot",
+        "Black Currant"
+      ],
+      "heart": [
+        "Birch",
+        "Patchouli",
+        "Jasmine"
+      ],
+      "base": [
+        "Musk",
+        "Oakmoss",
+        "Vanilla"
+      ]
+    },
+    "hero": {
+      "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1920&q=80",
+      "gradient": "linear-gradient(140deg, rgba(12,18,32,0.82) 0%, rgba(35,45,70,0.48) 50%, rgba(0,0,0,0.72) 100%)",
+      "accent": "#94a3b8"
+    },
+    "card": {
+      "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=600&q=80",
+      "label": "Fruity woody"
+    },
+    "bottle": {
+      "image": "/bottles/creed-aventus.png"
+    },
+    "similar": [
+      "velixir-icarus",
+      "afnan-supremacy-ce"
+    ]
+  },
+  {
+    "id": "lv-imagination",
+    "name": "Imagination",
+    "house": "Louis Vuitton",
+    "tagline": "Calabrian citrus and black tea over ambergris. Quiet luxury in a bottle.",
+    "family": "fresh",
+    "season": "Spring / Summer",
+    "longevity": "long",
+    "vibe": [
+      "Elegant",
+      "Clean",
+      "Daytime"
+    ],
+    "notes": {
+      "top": [
+        "Citruses",
+        "Bergamot",
+        "Orange"
+      ],
+      "heart": [
+        "Ginger",
+        "Neroli",
+        "Cinnamon"
+      ],
+      "base": [
+        "Black Tea",
+        "Ambroxan",
+        "Guaiac Wood"
+      ]
+    },
+    "hero": {
+      "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1920&q=80",
+      "gradient": "linear-gradient(155deg, rgba(8,25,40,0.85) 0%, rgba(20,55,75,0.45) 55%, rgba(0,0,0,0.68) 100%)",
+      "accent": "#38bdf8"
+    },
+    "card": {
+      "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=600&q=80",
+      "label": "Citrus tea"
+    },
+    "bottle": {
+      "image": "/bottles/imagination.png"
+    },
+    "similar": [
+      "blue-talisman",
+      "bleu-de-chanel"
+    ]
+  },
+  {
+    "id": "stronger-with-you-intensely",
+    "name": "Stronger With You Intensely",
+    "house": "Giorgio Armani",
+    "tagline": "Roasted chestnut, vanilla, and amber heat. Sweet, smoky, and addictive.",
+    "family": "gourmand",
+    "season": "Fall / Winter",
+    "longevity": "beast",
+    "vibe": [
+      "Date night",
+      "Sweet",
+      "Warm"
+    ],
+    "notes": {
+      "top": [
+        "Pink Pepper",
+        "Juniper",
+        "Violet"
+      ],
+      "heart": [
+        "Toffee",
+        "Cinnamon",
+        "Sage"
+      ],
+      "base": [
+        "Vanilla",
+        "Amber",
+        "Suede"
+      ]
+    },
+    "hero": {
+      "image": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?auto=format&fit=crop&w=1920&q=80",
+      "gradient": "linear-gradient(130deg, rgba(28,8,0,0.88) 0%, rgba(80,35,10,0.55) 48%, rgba(0,0,0,0.75) 100%)",
+      "accent": "#fb923c"
+    },
+    "card": {
+      "image": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?auto=format&fit=crop&w=600&q=80",
+      "label": "Amber vanilla"
+    },
+    "bottle": {
+      "image": "/bottles/swyi.png"
+    },
+    "similar": [
+      "initio-side-effect",
+      "lattafa-khamrah"
+    ]
+  },
+  {
+    "id": "lattafa-qahwa",
+    "name": "Qahwa",
+    "house": "Lattafa",
+    "tagline": "Arabic coffee, cardamom, and oud warmth. Cozy Middle Eastern gourmand energy.",
+    "family": "gourmand",
+    "season": "Fall / Winter",
+    "longevity": "beast",
+    "vibe": [
+      "Cozy",
+      "Coffee",
+      "Evening"
+    ],
+    "notes": {
+      "top": [
+        "Coffee",
+        "Cardamom",
+        "Cinnamon"
+      ],
+      "heart": [
+        "Oud",
+        "Rose",
+        "Praline"
+      ],
+      "base": [
+        "Vanilla",
+        "Amber",
+        "Musk"
+      ]
+    },
+    "hero": {
+      "image": "https://images.unsplash.com/photo-1632466477918-66ed5a901be2?auto=format&fit=crop&w=1920&q=80",
+      "gradient": "linear-gradient(145deg, rgba(25,10,5,0.9) 0%, rgba(65,30,12,0.58) 45%, rgba(0,0,0,0.78) 100%)",
+      "accent": "#d97706"
+    },
+    "card": {
+      "image": "https://images.unsplash.com/photo-1632466477918-66ed5a901be2?auto=format&fit=crop&w=600&q=80",
+      "label": "Coffee oud"
+    },
+    "bottle": {
+      "image": "/bottles/lattafa-qahwa.png"
+    },
+    "similar": [
+      "lattafa-khamrah",
+      "liquid-brun"
+    ]
+  },
+  {
+    "id": "initio-side-effect",
+    "name": "Side Effect",
+    "house": "Initio",
+    "tagline": "Rum, tobacco, and creamy vanilla. Boozy niche depth that fills a room.",
+    "family": "oriental",
+    "season": "Fall / Winter",
+    "longevity": "beast",
+    "vibe": [
+      "Niche feel",
+      "Boozy",
+      "Statement"
+    ],
+    "notes": {
+      "top": [
+        "Bergamot",
+        "Cinnamon",
+        "Pepper"
+      ],
+      "heart": [
+        "Rum",
+        "Whiskey",
+        "Orris"
+      ],
+      "base": [
+        "Tobacco",
+        "Vanilla",
+        "Cedar"
+      ]
+    },
+    "hero": {
+      "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1920&q=80",
+      "gradient": "linear-gradient(125deg, rgba(20,8,0,0.9) 0%, rgba(55,25,8,0.55) 50%, rgba(0,0,0,0.78) 100%)",
+      "accent": "#b45309"
+    },
+    "card": {
+      "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=600&q=80",
+      "label": "Boozy tobacco"
+    },
+    "bottle": {
+      "image": "/bottles/side-effect.png"
+    },
+    "similar": [
+      "stronger-with-you-intensely",
+      "lattafa-khamrah"
+    ]
+  },
+  {
+    "id": "rasasi-hawas-ice",
+    "name": "Hawas Ice",
+    "house": "Rasasi",
+    "tagline": "Crisp apple and cinnamon over an aquatic base. Cold, sweet, and loud.",
+    "family": "fresh",
+    "season": "Spring / Summer",
+    "longevity": "long",
+    "vibe": [
+      "Club",
+      "Fresh",
+      "Crowd pleaser"
+    ],
+    "notes": {
+      "top": [
+        "Apple",
+        "Bergamot",
+        "Cinnamon"
+      ],
+      "heart": [
+        "Aquatic Notes",
+        "Orange Blossom",
+        "Cardamom"
+      ],
+      "base": [
+        "Ambergris",
+        "Musk",
+        "Patchouli"
+      ]
+    },
+    "hero": {
+      "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1920&q=80",
+      "gradient": "linear-gradient(160deg, rgba(5,30,45,0.88) 0%, rgba(10,60,80,0.5) 50%, rgba(0,0,0,0.72) 100%)",
+      "accent": "#22d3ee"
+    },
+    "card": {
+      "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=600&q=80",
+      "label": "Icy fresh"
+    },
+    "bottle": {
+      "image": "/bottles/hawas-ice.png"
+    },
+    "similar": [
+      "versace-eros",
+      "ravine-ice"
+    ]
+  },
+  {
+    "id": "liquid-brun",
+    "name": "Liquid Brun",
+    "house": "French Avenue",
+    "tagline": "Dark chocolate, praline, and vanilla. Dessert in a bottle — rich and unapologetic.",
+    "family": "gourmand",
+    "season": "Fall / Winter",
+    "longevity": "beast",
+    "vibe": [
+      "Sweet",
+      "Chocolate",
+      "Night out"
+    ],
+    "notes": {
+      "top": [
+        "Chocolate",
+        "Hazelnut",
+        "Bergamot"
+      ],
+      "heart": [
+        "Praline",
+        "Jasmine",
+        "Caramel"
+      ],
+      "base": [
+        "Vanilla",
+        "Tonka Bean",
+        "Musk"
+      ]
+    },
+    "hero": {
+      "image": "https://images.unsplash.com/photo-1551024506-0bccd828d307?auto=format&fit=crop&w=1920&q=80",
+      "gradient": "linear-gradient(140deg, rgba(20,8,5,0.9) 0%, rgba(55,25,15,0.55) 50%, rgba(0,0,0,0.78) 100%)",
+      "accent": "#a16207"
+    },
+    "card": {
+      "image": "https://images.unsplash.com/photo-1551024506-0bccd828d307?auto=format&fit=crop&w=600&q=80",
+      "label": "Chocolate gourmand"
+    },
+    "bottle": {
+      "image": "/bottles/liquid-brun.png"
+    },
+    "similar": [
+      "lattafa-khamrah",
+      "lattafa-qahwa"
+    ]
+  },
+  {
+    "id": "freeze-riff",
+    "name": "Freeze Riff",
+    "house": "Rasasi",
+    "tagline": "Iced lavender and mint over clean musk. Barbershop fresh with a cold edge.",
+    "family": "fresh",
+    "season": "Spring / Summer",
+    "longevity": "long",
+    "vibe": [
+      "Daily driver",
+      "Fresh",
+      "Office safe"
+    ],
+    "notes": {
+      "top": [
+        "Mint",
+        "Lavender",
+        "Bergamot"
+      ],
+      "heart": [
+        "Geranium",
+        "Jasmine",
+        "Cedar"
+      ],
+      "base": [
+        "Musk",
+        "Amber",
+        "Vetiver"
+      ]
+    },
+    "hero": {
+      "image": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1920&q=80",
+      "gradient": "linear-gradient(150deg, rgba(8,25,30,0.85) 0%, rgba(15,50,55,0.48) 50%, rgba(0,0,0,0.72) 100%)",
+      "accent": "#5eead4"
+    },
+    "card": {
+      "image": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=600&q=80",
+      "label": "Cool aromatic"
+    },
+    "bottle": {
+      "image": "/bottles/freeze-riff.png"
+    },
+    "similar": [
+      "ravine-ice",
+      "velixir-demeter"
+    ]
+  },
+  {
+    "id": "nine-pm",
+    "name": "9PM",
+    "house": "Afnan",
+    "tagline": "Apple, cinnamon, and vanilla on a warm amber base. Built for the late shift.",
+    "family": "oriental",
+    "season": "Fall / Winter",
+    "longevity": "beast",
+    "vibe": [
+      "Night out",
+      "Sweet",
+      "Club"
+    ],
+    "notes": {
+      "top": [
+        "Apple",
+        "Cinnamon",
+        "Bergamot"
+      ],
+      "heart": [
+        "Orange Blossom",
+        "Clove",
+        "Rose"
+      ],
+      "base": [
+        "Vanilla",
+        "Patchouli",
+        "Amber"
+      ]
+    },
+    "hero": {
+      "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?auto=format&fit=crop&w=1920&q=80",
+      "gradient": "linear-gradient(135deg, rgba(15,5,25,0.88) 0%, rgba(45,15,65,0.52) 50%, rgba(0,0,0,0.75) 100%)",
+      "accent": "#c026d3"
+    },
+    "card": {
+      "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?auto=format&fit=crop&w=600&q=80",
+      "label": "Night vanilla"
+    },
+    "bottle": {
+      "image": "/bottles/9pm-nightout.png"
+    },
+    "similar": [
+      "versace-eros",
+      "lattafa-khamrah"
+    ]
+  },
+  {
+    "id": "vulcan-feu",
+    "name": "Vulcan Feu",
+    "house": "French Avenue",
+    "tagline": "Spiced woods and smoky resins. Volcanic warmth with designer-adjacent polish.",
+    "family": "woody",
+    "season": "Fall / Winter",
+    "longevity": "beast",
+    "vibe": [
+      "Bold",
+      "Spicy",
+      "Evening"
+    ],
+    "notes": {
+      "top": [
+        "Pink Pepper",
+        "Ginger",
+        "Bergamot"
+      ],
+      "heart": [
+        "Incense",
+        "Cedar",
+        "Labdanum"
+      ],
+      "base": [
+        "Amber",
+        "Vanilla",
+        "Benzoin"
+      ]
+    },
+    "hero": {
+      "image": "https://images.unsplash.com/photo-1511497584788-876760111969?auto=format&fit=crop&w=1920&q=80",
+      "gradient": "linear-gradient(145deg, rgba(30,8,0,0.88) 0%, rgba(90,35,5,0.55) 48%, rgba(0,0,0,0.78) 100%)",
+      "accent": "#ef4444"
+    },
+    "card": {
+      "image": "https://images.unsplash.com/photo-1511497584788-876760111969?auto=format&fit=crop&w=600&q=80",
+      "label": "Smoky woody"
+    },
+    "bottle": {
+      "image": "/bottles/vulcan-feu.png"
+    },
+    "similar": [
+      "sauvage-elixir",
+      "initio-side-effect"
+    ]
+  },
+  {
+    "id": "afnan-supremacy-ce",
+    "name": "Supremacy Collector's Edition",
+    "house": "Afnan",
+    "tagline": "Pineapple, birch, and musk brightness. Aventus orbit energy at a fraction of the price.",
+    "family": "woody",
+    "season": "All season",
+    "longevity": "beast",
+    "vibe": [
+      "Compliment getter",
+      "Fresh",
+      "Versatile"
+    ],
+    "notes": {
+      "top": [
+        "Pineapple",
+        "Bergamot",
+        "Black Currant"
+      ],
+      "heart": [
+        "Birch",
+        "Patchouli",
+        "Jasmine"
+      ],
+      "base": [
+        "Musk",
+        "Ambergris",
+        "Vanilla"
+      ]
+    },
+    "hero": {
+      "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=1920&q=80",
+      "gradient": "linear-gradient(140deg, rgba(10,15,28,0.85) 0%, rgba(30,35,60,0.48) 50%, rgba(0,0,0,0.72) 100%)",
+      "accent": "#818cf8"
+    },
+    "card": {
+      "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=600&q=80",
+      "label": "Pineapple woody"
+    },
+    "bottle": {
+      "image": "/bottles/afnan-supremacy-collectors-edition.png",
+      "scale": 1.15
+    },
+    "similar": [
+      "creed-aventus",
+      "velixir-icarus"
+    ]
+  },
+  {
+    "id": "ravine-ice",
+    "name": "Ravine Ice",
+    "house": "French Avenue",
+    "tagline": "Pear, musk, and icy woods. Clean, airy, and easy to reach for daily.",
+    "family": "fresh",
+    "season": "Spring / Summer",
+    "longevity": "long",
+    "vibe": [
+      "Daily driver",
+      "Clean",
+      "Versatile"
+    ],
+    "notes": {
+      "top": [
+        "Pear",
+        "Bergamot",
+        "Mint"
+      ],
+      "heart": [
+        "Lavender",
+        "Geranium",
+        "Jasmine"
+      ],
+      "base": [
+        "Musk",
+        "Cedar",
+        "Ambroxan"
+      ]
+    },
+    "hero": {
+      "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1920&q=80",
+      "gradient": "linear-gradient(155deg, rgba(8,20,35,0.85) 0%, rgba(20,45,70,0.45) 50%, rgba(0,0,0,0.72) 100%)",
+      "accent": "#7dd3fc"
+    },
+    "card": {
+      "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=600&q=80",
+      "label": "Icy pear"
+    },
+    "bottle": {
+      "image": "/bottles/ravine-ice.png",
+      "scale": 1.15
+    },
+    "similar": [
+      "rasasi-hawas-ice",
+      "atlantis-extrait"
+    ]
+  },
+  {
+    "id": "marwa-arabiyat",
+    "name": "Marwa",
+    "house": "Arabiyat Prestige",
+    "tagline": "Rose, oud, and saffron over soft amber. Middle Eastern elegance without the heaviness.",
+    "family": "oriental",
+    "season": "Fall / Winter",
+    "longevity": "long",
+    "vibe": [
+      "Evening",
+      "Oud",
+      "Refined"
+    ],
+    "notes": {
+      "top": [
+        "Saffron",
+        "Bergamot",
+        "Pink Pepper"
+      ],
+      "heart": [
+        "Rose",
+        "Oud",
+        "Jasmine"
+      ],
+      "base": [
+        "Amber",
+        "Musk",
+        "Cedar"
+      ]
+    },
+    "hero": {
+      "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1920&q=80",
+      "gradient": "linear-gradient(135deg, rgba(25,8,12,0.88) 0%, rgba(65,20,30,0.52) 50%, rgba(0,0,0,0.75) 100%)",
+      "accent": "#e879f9"
+    },
+    "card": {
+      "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=600&q=80",
+      "label": "Rose oud"
+    },
+    "bottle": {
+      "image": "/bottles/marwa-arabiyat.png"
+    },
+    "similar": [
+      "lattafa-khamrah",
+      "lattafa-qahwa"
+    ]
+  },
+  {
+    "id": "cdnim",
+    "name": "Club de Nuit Intense Man",
+    "house": "Armaf",
+    "tagline": "Lemon, apple, and smoky birch. Loud fresh woody energy that punches above its price.",
+    "family": "woody",
+    "season": "All season",
+    "longevity": "beast",
+    "vibe": [
+      "Compliment getter",
+      "Bold",
+      "Daily driver"
+    ],
+    "notes": {
+      "top": [
+        "Lemon",
+        "Apple",
+        "Black Currant"
+      ],
+      "heart": [
+        "Birch",
+        "Jasmine",
+        "Rose"
+      ],
+      "base": [
+        "Musk",
+        "Ambergris",
+        "Patchouli"
+      ]
+    },
+    "hero": {
+      "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1920&q=80",
+      "gradient": "linear-gradient(145deg, rgba(8,18,10,0.85) 0%, rgba(20,45,25,0.48) 50%, rgba(0,0,0,0.72) 100%)",
+      "accent": "#4ade80"
+    },
+    "card": {
+      "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=600&q=80",
+      "label": "Smoky fresh"
+    },
+    "bottle": {
+      "image": "/bottles/cdnim.png"
+    },
+    "similar": [
+      "creed-aventus",
+      "afnan-supremacy-ce"
+    ]
+  },
+  {
+    "id": "lattafa-khamrah",
+    "name": "Khamrah",
+    "house": "Lattafa",
+    "tagline": "Dates, cinnamon, and boozy vanilla. The viral sweet-spice king of cold weather.",
+    "family": "gourmand",
+    "season": "Fall / Winter",
+    "longevity": "beast",
+    "vibe": [
+      "Crowd pleaser",
+      "Sweet",
+      "Cozy"
+    ],
+    "notes": {
+      "top": [
+        "Cinnamon",
+        "Nutmeg",
+        "Bergamot"
+      ],
+      "heart": [
+        "Dates",
+        "Praline",
+        "Tuberose"
+      ],
+      "base": [
+        "Vanilla",
+        "Amber",
+        "Tonka Bean"
+      ]
+    },
+    "hero": {
+      "image": "https://images.unsplash.com/photo-1542401886-65d6c61db217?auto=format&fit=crop&w=1920&q=80",
+      "gradient": "linear-gradient(140deg, rgba(35,12,0,0.9) 0%, rgba(85,40,8,0.55) 50%, rgba(0,0,0,0.78) 100%)",
+      "accent": "#fbbf24"
+    },
+    "card": {
+      "image": "https://images.unsplash.com/photo-1542401886-65d6c61db217?auto=format&fit=crop&w=600&q=80",
+      "label": "Spiced gourmand"
+    },
+    "bottle": {
+      "image": "/bottles/lattafa-khamrah.png"
+    },
+    "similar": [
+      "born-in-roma",
+      "lattafa-qahwa"
+    ]
+  },
+  {
+    "id": "atlantis-extrait",
+    "name": "Atlantis Extrait",
+    "house": "French Avenue",
+    "tagline": "Marine breeze, citrus, and clean woods. Deep blue freshness with extrait depth.",
+    "family": "fresh",
+    "season": "Spring / Summer",
+    "longevity": "long",
+    "vibe": [
+      "Fresh",
+      "Aquatic",
+      "Daytime"
+    ],
+    "notes": {
+      "top": [
+        "Bergamot",
+        "Mint",
+        "Sea Salt"
+      ],
+      "heart": [
+        "Marine Notes",
+        "Lavender",
+        "Geranium"
+      ],
+      "base": [
+        "Ambergris",
+        "Cedar",
+        "Musk"
+      ]
+    },
+    "hero": {
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1920&q=80",
+      "gradient": "linear-gradient(160deg, rgba(5,25,45,0.88) 0%, rgba(10,50,75,0.5) 50%, rgba(0,0,0,0.72) 100%)",
+      "accent": "#0ea5e9"
+    },
+    "card": {
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=600&q=80",
+      "label": "Marine fresh"
+    },
+    "bottle": {
+      "image": "/bottles/atlantis-extrait.png"
+    },
+    "similar": [
+      "velixir-poseidon",
+      "ravine-ice"
+    ]
+  },
+  {
+    "id": "velixir-demeter",
+    "name": "Demeter",
+    "house": "Velixir",
+    "tagline": "Green herbs, lavender, and soft woods. Clean fougère freshness on a budget.",
+    "family": "fresh",
+    "season": "Spring / Summer",
+    "longevity": "long",
+    "vibe": [
+      "Office safe",
+      "Daily driver",
+      "Clean"
+    ],
+    "notes": {
+      "top": [
+        "Lavender",
+        "Mint",
+        "Bergamot"
+      ],
+      "heart": [
+        "Geranium",
+        "Sage",
+        "Jasmine"
+      ],
+      "base": [
+        "Cedar",
+        "Musk",
+        "Amber"
+      ]
+    },
+    "hero": {
+      "image": "https://images.unsplash.com/photo-1501854140801-50d01698950b?auto=format&fit=crop&w=1920&q=80",
+      "gradient": "linear-gradient(145deg, rgba(10,28,18,0.85) 0%, rgba(25,55,35,0.45) 50%, rgba(0,0,0,0.72) 100%)",
+      "accent": "#86efac"
+    },
+    "card": {
+      "image": "https://images.unsplash.com/photo-1501854140801-50d01698950b?auto=format&fit=crop&w=600&q=80",
+      "label": "Green fougère"
+    },
+    "bottle": {
+      "image": "/bottles/velixir-demeter.png"
+    },
+    "similar": [
+      "ysl-y",
+      "freeze-riff"
+    ]
+  },
+  {
+    "id": "velixir-icarus",
+    "name": "Icarus",
+    "house": "Velixir",
+    "tagline": "Bright fruit and smoky birch. Aventus-adjacent lift without the niche price tag.",
+    "family": "woody",
+    "season": "All season",
+    "longevity": "beast",
+    "vibe": [
+      "Compliment getter",
+      "Fruity",
+      "Bold"
+    ],
+    "notes": {
+      "top": [
+        "Pineapple",
+        "Bergamot",
+        "Apple"
+      ],
+      "heart": [
+        "Birch",
+        "Patchouli",
+        "Jasmine"
+      ],
+      "base": [
+        "Musk",
+        "Amber",
+        "Vanilla"
+      ]
+    },
+    "hero": {
+      "image": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?auto=format&fit=crop&w=1920&q=80",
+      "gradient": "linear-gradient(140deg, rgba(12,18,32,0.82) 0%, rgba(40,48,72,0.48) 50%, rgba(0,0,0,0.72) 100%)",
+      "accent": "#a5b4fc"
+    },
+    "card": {
+      "image": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?auto=format&fit=crop&w=600&q=80",
+      "label": "Fruity woody"
+    },
+    "bottle": {
+      "image": "/bottles/velixir-icarus.png"
+    },
+    "similar": [
+      "creed-aventus",
+      "afnan-supremacy-ce"
+    ]
+  },
+  {
+    "id": "velixir-poseidon",
+    "name": "Poseidon",
+    "house": "Velixir",
+    "tagline": "Citrus, mint, and marine woods. Bleu-adjacent freshness for everyday rotation.",
+    "family": "woody",
+    "season": "All season",
+    "longevity": "long",
+    "vibe": [
+      "Daily driver",
+      "Fresh",
+      "Office safe"
+    ],
+    "notes": {
+      "top": [
+        "Grapefruit",
+        "Mint",
+        "Pink Pepper"
+      ],
+      "heart": [
+        "Ginger",
+        "Neroli",
+        "Jasmine"
+      ],
+      "base": [
+        "Cedar",
+        "Incense",
+        "Patchouli"
+      ]
+    },
+    "hero": {
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=1920&q=80",
+      "gradient": "linear-gradient(155deg, rgba(5,22,38,0.88) 0%, rgba(12,45,65,0.48) 55%, rgba(0,0,0,0.72) 100%)",
+      "accent": "#60a5fa"
+    },
+    "card": {
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=600&q=80",
+      "label": "Marine woody"
+    },
+    "bottle": {
+      "image": "/bottles/velixir-poseidon.png"
+    },
+    "similar": [
+      "bleu-de-chanel",
+      "cdnim"
+    ]
+  },
+  {
+    "id": "blue-talisman",
+    "name": "Blue Talisman",
+    "house": "Ex Nihilo",
+    "tagline": "Mandarin, ginger, and creamy sandalwood. Bright niche freshness with a soft landing.",
+    "family": "woody",
+    "season": "Spring / Summer",
+    "longevity": "long",
+    "vibe": [
+      "Elegant",
+      "Fresh",
+      "Versatile"
+    ],
+    "notes": {
+      "top": [
+        "Mandarin",
+        "Ginger",
+        "Bergamot"
+      ],
+      "heart": [
+        "Orange Blossom",
+        "Cedar",
+        "Vetiver"
+      ],
+      "base": [
+        "Sandalwood",
+        "Vanilla",
+        "Musk"
+      ]
+    },
+    "hero": {
+      "image": "https://images.unsplash.com/photo-1517487881594-2787fef5ebf7?auto=format&fit=crop&w=1920&q=80",
+      "gradient": "linear-gradient(150deg, rgba(8,28,45,0.85) 0%, rgba(15,55,75,0.45) 50%, rgba(0,0,0,0.72) 100%)",
+      "accent": "#67e8f9"
+    },
+    "card": {
+      "image": "https://images.unsplash.com/photo-1517487881594-2787fef5ebf7?auto=format&fit=crop&w=600&q=80",
+      "label": "Citrus woody"
+    },
+    "bottle": {
+      "image": "/bottles/blue-talisman.png"
+    },
+    "similar": [
+      "lv-imagination",
+      "atlantis-extrait"
+    ]
+  }
+]
