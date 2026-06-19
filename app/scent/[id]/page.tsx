@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 
-import { HeroExperience } from "@/components/HeroExperience";
 import { perfumeMap, perfumes } from "@/lib/perfumes";
 
 type ScentPageProps = {
@@ -35,5 +34,5 @@ export default async function ScentPage({ params }: ScentPageProps) {
     notFound();
   }
 
-  return <HeroExperience perfumeId={id} />;
+  return null;
 }

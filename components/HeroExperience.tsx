@@ -1,7 +1,6 @@
 "use client";
 
 import { useCallback, useEffect, useMemo } from "react";
-import { useRouter } from "next/navigation";
 
 import { AboutSection } from "@/components/sections/AboutSection";
 import { SimilarVibes } from "@/components/sections/SimilarVibes";
@@ -16,15 +15,20 @@ import {
   usePerfumePreload,
 } from "@/hooks/usePerfumeSelection";
 import { useAccentTheme } from "@/hooks/useAccentTheme";
+import { perfumeMap } from "@/lib/perfumes";
 import { scentPath } from "@/lib/routes";
 import { usePerfumeStore } from "@/store/perfumeStore";
+
+function readScentIdFromPath(pathname: string) {
+  const match = pathname.match(/\/scent\/([^/]+)/);
+  return match?.[1] ?? null;
+}
 
 type HeroExperienceProps = {
   perfumeId: string;
 };
 
 export function HeroExperience({ perfumeId }: HeroExperienceProps) {
-  const router = useRouter();
   const selectedId = usePerfumeStore((state) => state.selectedId);
   const selectPerfume = usePerfumeStore((state) => state.selectPerfume);
   const selectedPerfume = usePerfumeStore((state) => state.getSelected());
@@ -38,11 +42,14 @@ export function HeroExperience({ perfumeId }: HeroExperienceProps) {
 
   const handleSelect = useCallback(
     (id: string) => {
+      if (id === selectedId) return;
+
       selectPerfume(id);
-      router.replace(scentPath(id), { scroll: false });
+      window.history.replaceState(null, "", scentPath(id));
+      document.title = `${perfumeMap[id].name} | Sillage`;
       window.scrollTo({ top: 0, behavior: "smooth" });
     },
-    [router, selectPerfume],
+    [selectPerfume, selectedId],
   );
 
   usePerfumeKeyboard(filteredIds, handleSelect);
@@ -53,12 +60,25 @@ export function HeroExperience({ perfumeId }: HeroExperienceProps) {
   }, [perfumeId, selectPerfume]);
 
   useEffect(() => {
+    const syncFromUrl = () => {
+      const id = readScentIdFromPath(window.location.pathname);
+      if (id && perfumeMap[id] && id !== usePerfumeStore.getState().selectedId) {
+        selectPerfume(id);
+      }
+    };
+
+    window.addEventListener("popstate", syncFromUrl);
+    return () => window.removeEventListener("popstate", syncFromUrl);
+  }, [selectPerfume]);
+
+  useEffect(() => {
     if (filteredIds.length > 0 && !filteredIds.includes(selectedId)) {
       const nextId = filteredIds[0];
       selectPerfume(nextId);
-      router.replace(scentPath(nextId), { scroll: false });
+      window.history.replaceState(null, "", scentPath(nextId));
+      document.title = `${perfumeMap[nextId].name} | Sillage`;
     }
-  }, [filteredIds, router, selectPerfume, selectedId]);
+  }, [filteredIds, selectPerfume, selectedId]);
 
   return (
     <div className="bg-zinc-950 text-white">
